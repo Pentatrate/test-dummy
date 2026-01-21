@@ -1,0 +1,15 @@
+{
+	"dependencies": {
+		"utilitools": {
+			"versions": [
+				[
+					">=",
+					"1.2.21"
+				]
+			],
+			"reason": "Required API. You may need to update this mod."
+		}
+	},
+	"config": true,
+	"cullConfig": true
+}

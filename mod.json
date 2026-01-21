@@ -1,0 +1,9 @@
+{
+	"version": "1.0.0",
+	"enabled": true,
+	"config": {},
+	"id": "test-dummy",
+	"description": "A testing mod for the autoupdater in utilitools",
+	"name": "TEST DUMMY",
+	"author": "Pentatrate"
+}
