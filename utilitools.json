@@ -9,7 +9,5 @@
 			],
 			"reason": "Required API. You may need to update this mod."
 		}
-	},
-	"config": true,
-	"cullConfig": true
+	}
 }
