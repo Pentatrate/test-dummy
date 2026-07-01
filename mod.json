@@ -1,6 +1,5 @@
 {
-	"version": "1.0.3",
-	"enabled": true,
+	"version": "1.0.4",
 	"config": {},
 	"id": "test-dummy",
 	"description": "A testing mod for the autoupdater in utilitools",
